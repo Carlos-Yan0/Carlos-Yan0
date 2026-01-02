@@ -29,21 +29,15 @@
 ## 🗂️ Projetos em destaque
 ### 🔹 Projeto 1 — *Sistema de Gestão de Padaria*
 
-Um sistema completo de gestão desenvolvido para padarias, com foco em organização, controle e facilidade de uso.  
-O objetivo do projeto é fornecer uma solução prática para o gerenciamento de operações diárias, integrando diversas funcionalidades em uma única plataforma.
+Sistema de gestão desenvolvido para padarias, com foco em controle de estoque, vendas e permissões de usuário.
 
-### ✨ Funcionalidades principais
-- 🧺 **Controle de estoque:** cadastro de produtos, atualização de quantidades e alertas de baixa.  
-- 👥 **Níveis de permissão:** controle de acesso por função (administrador, vendedor, atendente, etc.).  
-- 💰 **Gestão de vendas:** registro de vendas, histórico e relatórios básicos.  
-- 📦 **Gerenciamento de pedidos e produtos:** criação, edição e organização de itens.  
-- 📊 **Painel administrativo:** visão geral dos dados e atividades do sistema.
+**Funcionalidades:**
+- Controle de estoque  
+- Gestão de vendas  
+- Níveis de permissão  
+- Cadastro e gerenciamento de produtos  
 
-### 🛠 Tecnologias utilizadas
-- **Linguagens:** PHP, JavaScript  
-- **Frontend:** HTML5, CSS3, Bootstrap  
-- **Backend:** PHP estruturado  
-- **Banco de dados:** MySQL / MariaDB
----
+**Tecnologias:**  
+PHP, JavaScript, HTML5, CSS3, Bootstrap, MySQL/MariaDB
 
 ⭐ *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos 😊*
