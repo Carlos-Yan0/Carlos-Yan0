@@ -14,7 +14,7 @@
 - **Banco de dados:**  
   - MySQL | MariaDB
 - **Ferramentas e frameworks:**  
-  - Node.js | React
+  - Node.js | Express.js | React
 - **Outros:**  
   - Git | Linux | Docker
 
